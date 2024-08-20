@@ -3,15 +3,16 @@
 This repository contains SQL scripts for analyzing COVID-19 data. The project focuses on extracting, transforming, and analyzing data related to COVID-19 cases, recoveries, and deaths, with the aim of providing insights into the pandemic's impact across different regions.
 Table of Contents
 
-    -Introduction
-    -Prerequisites
-    -Installation
-    -Usage
-    -Files
-    -Data Sources
-    -Analysis Overview
-    -Contributing
-    -License
+-Introduction
+-Prerequisites
+-Installation
+-Usage
+-Files
+-Data Sources
+-Analysis Overview
+-Contributing
+-License
+
 #### Introduction
 
 The COVID-19 pandemic has had a profound impact globally. This project uses SQL to analyze COVID-19 data, helping to uncover trends, correlations, and patterns that could be useful for researchers, public health officials, and the general public.
@@ -21,6 +22,7 @@ Before running the SQL scripts, ensure you have the following software installed
 
     A SQL database management system (DBMS) such as MySQL, PostgreSQL, or SQLite.
     Basic understanding of SQL.
+
 ### Installation
 
    1. Clone the repository to your local machine:
