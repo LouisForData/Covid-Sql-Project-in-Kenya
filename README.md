@@ -26,7 +26,7 @@ Before running the SQL scripts, ensure you have the following software installed
 **Installation**
 
    1. Clone the repository to your local machine:
-      git clone https://github.com/yourusername/covid-project.git
+      [git clone https://github.com/LouisForData/covid-project.git](https://github.com/LouisForData/Covid-Sql-Project-in-Kenya/blob/main/CovidProject.sql)
       cd covid-project
    2. Set up your SQL environment. If you're using MySQL or PostgreSQL, create a new database:
       CREATE DATABASE covid_analysis;
