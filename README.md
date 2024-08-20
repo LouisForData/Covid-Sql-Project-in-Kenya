@@ -12,8 +12,7 @@ Table of Contents
     -Analysis Overview
     -Contributing
     -License
-
-**Introduction**
+#### Introduction
 
 The COVID-19 pandemic has had a profound impact globally. This project uses SQL to analyze COVID-19 data, helping to uncover trends, correlations, and patterns that could be useful for researchers, public health officials, and the general public.
 Prerequisites
@@ -22,8 +21,7 @@ Before running the SQL scripts, ensure you have the following software installed
 
     A SQL database management system (DBMS) such as MySQL, PostgreSQL, or SQLite.
     Basic understanding of SQL.
-
-**Installation**
+### Installation
 
    1. Clone the repository to your local machine:
       [git clone https://github.com/LouisForData/covid-project.git](https://github.com/LouisForData/Covid-Sql-Project-in-Kenya/blob/main/CovidProject.sql)
