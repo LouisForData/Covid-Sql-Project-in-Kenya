@@ -48,25 +48,26 @@ Files
 
 The data used in this project can be obtained from reliable sources such as:
 
-    -[] Johns Hopkins University
-- []  Our World in Data
-  - []  World Health Organization
+    -Johns Hopkins University
+    -Our World in Data
+    -World Health Organization
 
 Ensure you comply with the data usage policies of these sources.
 Analysis Overview
 
 The SQL scripts in this project cover the following areas:
 
-    Data Extraction: Pulling in COVID-19 case data from external sources.
-    Data Transformation: Cleaning and structuring the data for analysis.
-    Descriptive Analysis: Summary statistics and trends.
-    Geographical Analysis: Impact of COVID-19 across different regions.
-    Temporal Analysis: How the pandemic has evolved over time.
-    Predictive Insights: Basic forecasting based on historical data (if applicable).
+    -Data Extraction: Pulling in COVID-19 case data from external sources.
+    -Data Transformation: Cleaning and structuring the data for analysis.
+    -Descriptive Analysis: Summary statistics and trends.
+    -Geographical Analysis: Impact of COVID-19 across different regions.
+    -Temporal Analysis: How the pandemic has evolved over time.
+    -Predictive Insights: Basic forecasting based on historical data (if applicable).
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
-License
+
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
