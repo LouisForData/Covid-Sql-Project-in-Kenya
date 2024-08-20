@@ -3,15 +3,15 @@
 This repository contains SQL scripts for analyzing COVID-19 data. The project focuses on extracting, transforming, and analyzing data related to COVID-19 cases, recoveries, and deaths, with the aim of providing insights into the pandemic's impact across different regions.
 Table of Contents
 
-    Introduction
-    Prerequisites
-    Installation
-    Usage
-    Files
-    Data Sources
-    Analysis Overview
-    Contributing
-    License
+    -Introduction
+    -Prerequisites
+    -Installation
+    -Usage
+    -Files
+    -Data Sources
+    -Analysis Overview
+    -Contributing
+    -License
 
 **Introduction**
 
